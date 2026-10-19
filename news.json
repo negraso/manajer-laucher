@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "news": [
+    {
+      "id": "e6d669f4-808b-4305-8965-29f4bd4456b8",
+      "title": "nueva noticia",
+      "content": "ya casi esta el launcher",
+      "createdAt": "2026-10-19T19:35:43.036Z"
+    }
+  ]
+}

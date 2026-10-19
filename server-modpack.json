@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "name": "Bacho Server Modpack",
+  "minecraftVersion": "1.21.1",
+  "loader": "fabric",
+  "loaderVersion": "0.19.5",
+  "mods": [
+    {
+      "source": "github",
+      "name": "Jade-1.21.1-Fabric-15.10.6",
+      "filename": "Jade-1.21.1-Fabric-15.10.6.jar",
+      "size": 740746,
+      "sha256": "fb834cc77804a6f509690c54b4af56305ce7a7f3171f8616310710f0af1f673a",
+      "path": "server-mods/fb834cc77804a6f509690c54b4af56305ce7a7f3171f8616310710f0af1f673a-Jade-1.21.1-Fabric-15.10.6.jar"
+    }
+  ]
+}

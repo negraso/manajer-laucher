@@ -2,6 +2,13 @@
   "schemaVersion": 1,
   "news": [
     {
+      "id": "d33ea8f1-0cd2-4985-b60a-9e54ee613b50",
+      "title": "estamos tan cerca",
+      "content": "dentro de poco va a salir la vercion oficial de la bacho launcher",
+      "createdAt": "2026-10-19T19:41:04.394Z",
+      "imageUrl": "https://raw.githubusercontent.com/negraso/manajer-laucher/main/news-images/d33ea8f1-0cd2-4985-b60a-9e54ee613b50.jpg"
+    },
+    {
       "id": "e6d669f4-808b-4305-8965-29f4bd4456b8",
       "title": "nueva noticia",
       "content": "ya casi esta el launcher",
